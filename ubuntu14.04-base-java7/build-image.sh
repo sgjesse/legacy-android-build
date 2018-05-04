@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t sgjesse/legacy-android-base-java7 .
+docker build -t sgjesse/legacy-android-java7 .
